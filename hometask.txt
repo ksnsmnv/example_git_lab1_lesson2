@@ -1,0 +1,5 @@
+Отличия в файлах Readme, в строках:
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+Минусом отмечен master, а плюсом demo
+
