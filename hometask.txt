@@ -3,3 +3,9 @@
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 Минусом отмечен master, а плюсом demo
 
+Всего 5 коммитов
+1)Merge remote-tracking branch 'origin/boots' into boots_buttons
+2)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+3)update
+4)Merge branch 'boots_buttons'
+5)hometasks.txt commits count
